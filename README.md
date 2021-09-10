@@ -13,5 +13,6 @@ ${list[0].regdate} ==> ${list[0].regData}
 > **원인** : update.jsp 에서 parameter name 에 오타
 
 ```html
+// 수정
 <textare name="contnet"> ==> <textare name="content">
 ```
